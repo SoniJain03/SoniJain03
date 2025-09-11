@@ -35,6 +35,4 @@ A **web application** using Machine Learning to analyze resumes, provide actiona
 
 ---
 
-## 🌟 About Me
-
 I am driven by curiosity and enjoy transforming complex datasets into actionable insights. I love experimenting with AI and web technologies to build projects that make a real difference. Always learning, exploring, and applying knowledge in practical ways.
