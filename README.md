@@ -1,4 +1,4 @@
-# Hi, I’m Soni Jain 👋
+# Hi, I’m Soni Jain
 
 AI & ML enthusiast | Developer | Building real-world projects using Machine Learning, Deep Learning & Web Development
 
