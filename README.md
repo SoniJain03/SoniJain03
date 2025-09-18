@@ -6,15 +6,14 @@ AI & ML enthusiast | Developer | Building real-world projects using Machine Lear
 
 ## 💡 Key Projects
 
-### Smart Resume Reviewer
-A **web application** using Machine Learning to analyze resumes, provide actionable feedback, and help users optimize for better opportunities.  
-[Live Demo](https://smart-resume-reviewer-e3khl2f47bkq5f8ezasaqs.streamlit.app/) | [GitHub Repo](https://github.com/SoniJain03?tab=repositories)
+### Smart Waste Segregation System – 
+Developed an intelligent system to classify waste into categories (like plastic, clothes, paper, cardboard etc.) using deep learning (MobileNetV2) , aimed at promoting efficient waste management and environmental sustainability.
 
-### Smart Waste Segregation System
-**CNN-based image classification** (MobileNetV2) to automatically segregate waste into **biodegradable, recyclable, and non-recyclable** categories, with **Google Maps integration** to guide users to nearby recycling centers.
+### Smart Resume Reviewer – 
+Built a tool that analyzes resumes using an LLM model (Google Gemini Pro), providing insights like skill-match percentage, missing keywords, strengths, and weaknesses, helping job seekers optimize their resumes for specific roles.
 
-### Breast Cancer Detection
-**Deep Learning image classification** using CNN to assist in **early detection of breast cancer**, enabling faster diagnosis and supporting medical decision-making.
+#### Image Classification (Cat vs Dog) –
+Implemented a convolutional neural network (CNN) model to classify images into cats or dogs with high accuracy. The project includes training on a large dataset and deploying the model for real-time predictions.
 
 ---
 
