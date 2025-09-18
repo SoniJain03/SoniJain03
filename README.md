@@ -12,7 +12,7 @@ Developed an intelligent system to classify waste into categories (like plastic,
 ### Smart Resume Reviewer – 
 Built a tool that analyzes resumes using an LLM model (Google Gemini Pro), providing insights like skill-match percentage, missing keywords, strengths, and weaknesses, helping job seekers optimize their resumes for specific roles.
 
-#### Image Classification (Cat vs Dog) –
+### Image Classification (Cat vs Dog) –
 Implemented a convolutional neural network (CNN) model to classify images into cats or dogs with high accuracy. The project includes training on a large dataset and deploying the model for real-time predictions.
 
 ---
