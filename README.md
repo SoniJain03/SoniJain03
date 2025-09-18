@@ -4,6 +4,8 @@ AI & ML enthusiast | Developer | Building real-world projects using Machine Lear
 
 ---
 
+I am passionate about leveraging AI and web technologies to solve real-world problems. With a strong foundation in programming, data analysis, and machine learning, I enjoy building practical projects that combine innovation and impact.
+
 ## 💡 Key Projects
 
 ### Smart Waste Segregation System – 
