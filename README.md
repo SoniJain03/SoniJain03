@@ -29,7 +29,7 @@ A **web application** using Machine Learning to analyze resumes, provide actiona
 
 ## 📬 Connect with Me
 
-- Email: sonijaingoyal030920@gmail.com  
+- Email: sonijaingoyal03092006@gmail.com  
 - GitHub: [https://github.com/SoniJain03](https://github.com/SoniJain03?tab=repositories)  
 - LinkedIn: [www.linkedin.com/in/sonijain03](https://www.linkedin.com/in/sonijain03)
 
