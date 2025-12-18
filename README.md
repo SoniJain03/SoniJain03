@@ -6,7 +6,7 @@ AI & ML enthusiast | Developer | Building real-world projects using Machine Lear
 
 I am passionate about leveraging AI and web technologies to solve real-world problems. With a strong foundation in programming, data analysis, and machine learning, I enjoy building practical projects that combine innovation and impact.
 
-## 💡 Key Projects
+##  Key Projects
 
 ### Smart Waste Segregation System – 
 Developed an intelligent system to classify waste into categories (like plastic, clothes, paper, cardboard etc.) using deep learning (MobileNetV2) , aimed at promoting efficient waste management and environmental sustainability.
@@ -19,7 +19,7 @@ Implemented a convolutional neural network (CNN) model to classify images into c
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 **Programming & Scripting:** Python, JavaScript, HTML, CSS  
 **Machine Learning & AI:** TensorFlow, Keras, OpenCV, Scikit-learn, Deep Learning, CNNs, KNN  
@@ -28,7 +28,7 @@ Implemented a convolutional neural network (CNN) model to classify images into c
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 - Email: sonijaingoyal03092006@gmail.com  
 - GitHub: [https://github.com/SoniJain03](https://github.com/SoniJain03?tab=repositories)  
